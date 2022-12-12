@@ -1,0 +1,4 @@
+repository "MoveNow!@xue10qq@cloud"
+  path "/"
+    br "/main"
+    co "/main"
